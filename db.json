@@ -10,5 +10,40 @@
 		"data":{
 		"name":"Brian Rofiq"
 		}
+	},
+	"daftarKreator":{
+		"status":"success",
+		"data":[
+		{
+			"nama":"Tere Liye",
+			"jumlahKarya":10,
+			"skor":8.99,
+			"urlImage": "https://i.ibb.co/3mG2JyV/circle-cropped-1.png"
+		},
+		{
+			"nama":"Boy Candra",
+			"jumlahKarya":3,
+			"skor":8.99,
+			"urlImage": "https://i.ibb.co/ftCGn4H/circle-cropped.png"
+		},
+		{
+			"nama":"Dee Lestari",
+			"jumlahKarya":3,
+			"skor":8.99,
+			"urlImage": "https://i.ibb.co/JqCn8qk/circle-cropped-2.png"
+		},
+		{
+			"nama":"Raditya Dika",
+			"jumlahKarya":3,
+			"skor":8.99,
+			"urlImage": "https://i.ibb.co/VY2RdjW/circle-cropped-3.png"
+		},
+		{
+			"nama":"Pidi Baiq",
+			"jumlahKarya":3,
+			"skor":8.99,
+			"urlImage": "https://i.ibb.co/8DSCs92/circle-cropped-4.png"
+		}
+		]
 	}
 }
