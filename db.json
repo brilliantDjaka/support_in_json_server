@@ -5,4 +5,10 @@
 		"userId":"awefewafwafaw"
 		}
 	}
+	"user"{
+		"status":"success",
+		"data":{
+		"name":"Brian Rofiq",
+		}
+	}
 }
