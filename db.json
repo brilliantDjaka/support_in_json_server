@@ -1,54 +1,83 @@
 {
-	"login":{
-		"status":"success",
-		"data":{
-		"userId":"awefewafwafaw"
-		}
-	},
-	"user":{
-		"status":"success",
-		"data":{
-		"name":"Brian Rofiq"
-		}
-	},
-	"daftarKreator":{
-		"status":"success",
-		"data":[
-		{
-			"idKreator":"tereliye",
-			"nama":"Tere Liye",
-			"jumlahKarya":10,
-			"skor":8.99,
-			"urlImage": "https://i.ibb.co/3mG2JyV/circle-cropped-1.png"
-		},
-		{
-			"idKreator":"boycandra",
-			"nama":"Boy Candra",
-			"jumlahKarya":3,
-			"skor":8.99,
-			"urlImage": "https://i.ibb.co/ftCGn4H/circle-cropped.png"
-		},
-		{
-			"idKreator":"deelestari",
-			"nama":"Dee Lestari",
-			"jumlahKarya":3,
-			"skor":8.99,
-			"urlImage": "https://i.ibb.co/JqCn8qk/circle-cropped-2.png"
-		},
-		{
-			"idKreator":"radityadika",
-			"nama":"Raditya Dika",
-			"jumlahKarya":3,
-			"skor":8.99,
-			"urlImage": "https://i.ibb.co/VY2RdjW/circle-cropped-3.png"
-		},
-		{
-			"idKreator":"pidibaiq",
-			"nama":"Pidi Baiq",
-			"jumlahKarya":3,
-			"skor":8.99,
-			"urlImage": "https://i.ibb.co/8DSCs92/circle-cropped-4.png"
-		}
-		]
-	}
+    "login":{
+        "status":"success",
+        "data":{
+            "userId":"awefewafwafaw"
+        }
+    },
+    "user":{
+        "status":"success",
+        "data":{
+            "name":"Brian Rofiq"
+        }
+    },
+    "daftarKreator":{
+        "status":"success",
+        "data":[
+            {
+                "idKreator":"tereliye",
+                "nama":"Tere Liye",
+                "jumlahKarya":10,
+                "skor":8.99,
+                "urlImage":"https://i.ibb.co/3mG2JyV/circle-cropped-1.png"
+            },
+            {
+                "idKreator":"boycandra",
+                "nama":"Boy Candra",
+                "jumlahKarya":3,
+                "skor":8.99,
+                "urlImage":"https://i.ibb.co/ftCGn4H/circle-cropped.png"
+            },
+            {
+                "idKreator":"deelestari",
+                "nama":"Dee Lestari",
+                "jumlahKarya":3,
+                "skor":8.99,
+                "urlImage":"https://i.ibb.co/JqCn8qk/circle-cropped-2.png"
+            },
+            {
+                "idKreator":"radityadika",
+                "nama":"Raditya Dika",
+                "jumlahKarya":3,
+                "skor":8.99,
+                "urlImage":"https://i.ibb.co/VY2RdjW/circle-cropped-3.png"
+            },
+            {
+                "idKreator":"pidibaiq",
+                "nama":"Pidi Baiq",
+                "jumlahKarya":3,
+                "skor":8.99,
+                "urlImage":"https://i.ibb.co/8DSCs92/circle-cropped-4.png"
+            }
+        ]
+    },
+    "daftarKonten":{
+        "status":"success",
+        "data":{
+            "namaKreator":"Boy Candra",
+            "kategori":"Penulis, Konten Kreator",
+            "point":100,
+            "jumlahKarya":4,
+            "karya":[
+                {
+                    "judulKarya":"Dongeng yang tak utuh",
+                    "deskripsi":"“Tuhan juga menciptakan surga di kedua tatap matamu dan di semua bentuk ketidakwarasanku terhadap kamu.”",
+                    "imageUrl":"https://mojokstore.com/wp-content/uploads/2019/02/Dongeng-Dongeng-yang-Tak-Utuh-600x890.jpg",
+                    "rating":9
+                },
+                {
+                    "judulKarya":"Pada Senja Yang Membawamu Pergi",
+                    "deskripsi":"“Malam dan kenangan sering membuat sebuah bentuk rindu yang seharusnya tidak kuulang, meringis tajam di dadaku”",
+                    "imageUrl":"https://gagasmedia.net/wp-content/uploads/2016/11/Pada-Senja-yg-Membawamu-Pergi.jpg",
+                    "rating":9
+                },
+                {
+                    "judulKarya":"Novel Boy Candra Origami Hati",
+                    "deskripsi":"“Janganlah kamu berpaling dan membuat kita menjadi dua orang asing yang tidak mengenal satu sama lain. Di bumi ini, ada banyak sekali orang yang bisa merebutmu”",
+                    "imageUrl":"https://indonesiaebook.com/wp-content/uploads/2018/08/Origami-Hati-by-Boy-Candra.jpg",
+                    "rating":9
+                }
+            ]
+        }
+    }
 }
