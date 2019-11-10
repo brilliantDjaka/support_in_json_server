@@ -55,6 +55,7 @@
         "status":"success",
         "data":{
             "namaKreator":"Boy Candra",
+			"picUrl":"https://i.ibb.co/ftCGn4H/circle-cropped.png",
             "kategori":"Penulis, Konten Kreator",
             "point":100,
             "jumlahKarya":4,
